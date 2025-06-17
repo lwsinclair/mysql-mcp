@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ashutosh-rajput-mysql-mcp-badge.png)](https://mseep.ai/app/ashutosh-rajput-mysql-mcp)
+
 # 🐬 MySQL MCP Server (FastMCP-Powered)
 
 Leverage the power of AI to automate your MySQL workflows with **FastMCP**.  
